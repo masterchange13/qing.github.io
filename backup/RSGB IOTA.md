@@ -1,3 +1,7 @@
+本次通联：BH8GFN 重庆
+BG3RZA 河北
+
+
 ![Screenshot_2025-07-28-08-40-12-603_com.miui.gallery.jpg](https://github.com/user-attachments/assets/53b73387-30c7-4275-9963-28b7055173fe)
 
 ![Image_1753591815483.png](https://github.com/user-attachments/assets/6745e6e5-9b67-4beb-9845-3c1cec1bc30d)
