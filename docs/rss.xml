@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>masterchange的blog</title><link>https://masterchange13.github.io/qing.github.io</link><description>Blog description</description><copyright>masterchange的blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/100202991?v=4</url><title>avatar</title><link>https://masterchange13.github.io/qing.github.io</link></image><lastBuildDate>Mon, 28 Jul 2025 00:56:57 +0000</lastBuildDate><managingEditor>masterchange的blog</managingEditor><ttl>60</ttl><webMaster>masterchange的blog</webMaster><item><title>观陂有感</title><link>https://masterchange13.github.io/qing.github.io/post/guan-bei-you-gan.html</link><description>**云烟轻拂遮天幕，
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>masterchange的blog</title><link>https://masterchange13.github.io/qing.github.io</link><description>Blog description</description><copyright>masterchange的blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/100202991?v=4</url><title>avatar</title><link>https://masterchange13.github.io/qing.github.io</link></image><lastBuildDate>Fri, 08 Aug 2025 11:04:47 +0000</lastBuildDate><managingEditor>masterchange的blog</managingEditor><ttl>60</ttl><webMaster>masterchange的blog</webMaster><item><title>rust驱动esp32点灯</title><link>https://masterchange13.github.io/qing.github.io/post/rust-qu-dong-esp32-dian-deng.html</link><description>&lt;img width='1920' height='1005' alt='Image' src='https://github.com/user-attachments/assets/a896febf-fa89-4d7d-af0f-f3f24074fa03' /&gt;
+
+&lt;img width='1920' height='511' alt='Image' src='https://github.com/user-attachments/assets/825c9182-b711-4b49-9480-4e29c1be9655' /&gt;
+
+&lt;img width='959' height='447' alt='Image' src='https://github.com/user-attachments/assets/91e12e90-ae90-4d58-8f40-7cd3e2a26892' /&gt;
+
+&lt;img width='923' height='315' alt='Image' src='https://github.com/user-attachments/assets/d52e5be1-061c-4bd7-9fc6-baf36ae54b28' /&gt;
+
+&lt;img width='934' height='477' alt='Image' src='https://github.com/user-attachments/assets/a4805fd4-5ce2-44e2-945f-92d5dc7f095b' /&gt;
+
+![Image](https://github.com/user-attachments/assets/0bf938ef-f999-496e-ae98-c1eea14b77d7)
+
+[rust开发esp32
+](https://blog.csdn.net/change_gai/article/details/149879305?spm=1001.2014.3001.5501)。</description><guid isPermaLink="true">https://masterchange13.github.io/qing.github.io/post/rust-qu-dong-esp32-dian-deng.html</guid><pubDate>Fri, 08 Aug 2025 11:04:20 +0000</pubDate></item><item><title>观陂有感</title><link>https://masterchange13.github.io/qing.github.io/post/guan-bei-you-gan.html</link><description>**云烟轻拂遮天幕，
 陂水无声映静痕。</description><guid isPermaLink="true">https://masterchange13.github.io/qing.github.io/post/guan-bei-you-gan.html</guid><pubDate>Mon, 28 Jul 2025 00:56:28 +0000</pubDate></item><item><title>RSGB IOTA</title><link>https://masterchange13.github.io/qing.github.io/post/RSGB%20IOTA.html</link><description>本次通联：BH8GFN 重庆
 BG3RZA 河北
 
